@@ -15,17 +15,13 @@ Total Supply: 100,000,000,000 (100 billion)
 Blockchain: Solana
 
 Logo: 
-
+</br>
 <img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi align='left' width=8% />
-
 </br>
 
 ## Token distribution
-
-
-
+</br>
 <img src=https://ipfs.io/ipfs/QmXY9Ap7FjNBCSZpXyj9TFjRTeMNZFQbPhp13yKb2u9yBY align='left' width=50% />
-
 </br>
 
 - Community Airdrop 52%

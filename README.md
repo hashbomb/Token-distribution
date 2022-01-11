@@ -3,18 +3,26 @@
 ### Token info
 
 Token Name: HASHTIKI
+
 Symbol: TIKI
+
 Contract: ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3
+
 Decimal: 6
+
 Total Supply: 100,000,000,000 (100 billion) 
+
 Blockchain: Solana
+
 Logo: 
 
 <img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi align='left' width=8% />
 
 
 ### Token distribution
+
 <img src=https://ipfs.io/ipfs/QmXY9Ap7FjNBCSZpXyj9TFjRTeMNZFQbPhp13yKb2u9yBY align='left' width=50% />
+
 
 
 Community Airdrop 52%  - HashTribe GameFi and events are distributed to community players

@@ -2,6 +2,12 @@
 
 ## Token info
 
+Logo: 
+
+<div  align="left">    
+<img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi  width=8% />
+</div>
+
 Token Name: HASHTIKI
 
 Symbol: TIKI
@@ -14,11 +20,9 @@ Total Supply: 100,000,000,000 (100 billion)
 
 Blockchain: Solana
 
-Logo: 
+[TIKI Solana explorer](https://solscan.io/token/ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3)
 
-<div  align="left">    
-<img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi  width=8% />
-</div>
+
 
 
 

@@ -12,7 +12,7 @@ Token Name: HASHTIKI
 
 Symbol: TIKI
 
-Contract: ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3
+Contract Address:  ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3
 
 Decimal: 6
 
@@ -37,7 +37,7 @@ Blockchain: Solana
 
 - Community Airdrop 52%
 
-  HashTribe GameFi and events are distributed to community players
+  Distributed to community users through HashTribe GameFi and various events. 
 
 
 
@@ -49,23 +49,23 @@ Blockchain: Solana
 
 - Ecological funds 8%
 
-  Used for token repurchase incentive and ecological expansion, TikiDAO community governance, voting reward  
+  Used as token repurchase incentives and for ecological expansion, Tiki DAO community governance, rewards for voting.  
 
 
 
 - Sell 12% 
 
-  For the promotion and marketing of HashTiki, NFT will release 20% in the first phase one month after pre-sale, and the remaining tokens will be released to investors linearly over 18 months 
+  For the promotion of HashTiki, 20% tokens will be released one month after the NFT pre-sale, and the remaining part will be released linearly to investors over 18 months.
 
 
 
 - Team 8%
 
-  NFT will be released one month after pre-sale and will be released linearly within three years
+  NFT release starts one month after pre-sale and will be released linearly within three years.
 
 
 
 - NFT holder profit 15%
 
-  A series of HashTiki NFT holder's benefit award, one month after NFT pre-sale, linear airdrop to NFT holder over five years (the system automatically retrieves the latest holder every 3 months)
+  As benefits for NFT holders, tokens will be airdropped starting one month after NFT pre-sale, releasing linearly over a five-year period (the system automatically updates the latest holders every three months).
 

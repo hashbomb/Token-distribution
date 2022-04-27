@@ -2,25 +2,24 @@
 
 ## Token info
 
-Logo: 
+icon: 
 
 <div  align="left">    
 <img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi  width=8% />
 </div>
-
 Token Name: HASHTIKI
 
 Symbol: TIKI
 
-Contract Address:  ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3
+Contract Address:  0xE6C42489218933a7534F501251289272de72aF0C
 
-Decimal: 6
+Decimal: 18
 
 Total Supply: 100,000,000,000 (100 billion) 
 
-Blockchain: Solana
+Blockchain: Polygon
 
-[TIKI Solana explorer](https://solscan.io/token/ySumbV2nRTFDpiEyetwpz8Pr3JqUNBi7hK2s7jyyji3)
+[Explorer](https://polygonscan.com/token/0xE6C42489218933a7534F501251289272de72aF0C)
 
 
 

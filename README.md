@@ -5,7 +5,7 @@
 icon: 
 
 <div  align="left">    
-<img src=https://ipfs.io/ipfs/QmPq97uixRNPmL8jQXgsopKWPCyd7ALFt2m6VtEwwyRXUi  width=8% />
+<img src=./img/HASHTIKI_ICON.png  width=8% />
 </div>
 Token Name: HASHTIKI
 
@@ -27,8 +27,9 @@ Blockchain: Polygon
 
 ## Token distribution
 <div  align="left">    
-<img src=https://ipfs.io/ipfs/QmXY9Ap7FjNBCSZpXyj9TFjRTeMNZFQbPhp13yKb2u9yBY  width=50% />
+<img src=./img/tiki-token-gov-dis.png  width=50% />
 </div>
+
 
 
 

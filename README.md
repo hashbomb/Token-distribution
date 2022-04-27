@@ -5,8 +5,9 @@
 icon: 
 
 <div  align="left">    
-<img src=./img/HASHTIKI_ICON.png  width=8% />
+<img src=./img/HASHTIKI_ICON.png  width=5% />
 </div>
+
 Token Name: HASHTIKI
 
 Symbol: TIKI
@@ -27,8 +28,9 @@ Blockchain: Polygon
 
 ## Token distribution
 <div  align="left">    
-<img src=./img/tiki-token-gov-dis.png  width=50% />
+<img src=./img/tiki-token-gov-dis.png  width=60% />
 </div>
+
 
 
 

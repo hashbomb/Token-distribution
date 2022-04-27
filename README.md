@@ -1,8 +1,6 @@
-[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://github.com/hashbomb/Token-distribution/tree/main/contract)
-
-[![Twitter](https://img.shields.io/twitter/follow/hashtiki? label=Follow)](https://twitter.com/hashtiki)
-
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://polygonscan.com/address/0xE6C42489218933a7534F501251289272de72aF0C#code)
+![Web](https://img.shields.io/badge/web-hashtiki.fun-orange.svg?style=plastic)
+![Twitter](https://img.shields.io/twitter/follow/hashtiki? label=Follow)](https://twitter.com/hashtiki)
+![build](https://img.shields.io/badge/build-passing-brightgreen)](https://polygonscan.com/address/0xE6C42489218933a7534F501251289272de72aF0C#code)
 
 
 

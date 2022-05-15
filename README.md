@@ -122,6 +122,17 @@ So we can get the following table. The income issued in each quarter can be deri
 | Q6                5/(5+8+13+21)                      |    0.5106382 billion  |    
 | Q7                5/(5+8+13+21)                      |  0.8297872 billion    |    
 | Q8                5/(5+8+13+21)                    |   1.3404255 billion   |    
-| Calculating like this... |    
+| Calculating like this... |     ...   |  
 
+The above income X will be distributed to HashTiki holders who have been minted through smart contracts every Wednesday (12:00 UTC). **Quarterly output/(3 months*4 weeks)** will be distributed to holders.
 
+For example (4 weeks per month):
+
+If only 1000 HashTiki are minted in the first quarter, you hold #200 NFT, you will get the following TIKI benefits in the first month of holding it: (trigger settlement according to the weekly contract)
+
+Each NFT can airdrop TIKI tokens:
+X=4.285714 billion/(12*1000)=35714.283 TIKI
+
+​ As the circulation of HashTiki reaches 8,000 all minted, it will also be calculated according to the snapshot.
+
+The secret: The earlier you hold, the more airdrop income you can get, and the longer you hold it, the more rights you can get.

@@ -101,12 +101,12 @@ Yes, we will divide 15% (15 billion) of the total TIKI according to such an imag
 
 If we imagine the first 20 numbers as 20 quarters, that's exactly five years.
 
-| 1st year：1、1、2、3             |      | =7     |      |      |
-| :----------------------------- | ---- | ----------- | ---- | ---- |
-| 2nd year： 5、 8、 13、 21       |      | =47    |      |      |
-| 3rd year：34、 55、 89、 144     |      | =322   |      |      |
-| 4th year：233、 377、 610、 987  |      | =2207  |      |      |
-| 5th year：1597、2584、4181、6765 |      | =15087 |      |      |
+| 1st year：             |  1 1 2 3    | =7     | 
+| :----------------------------- | ---- | ----------- | 
+| 2nd year：        |  5 8 13 21    | =47    | 
+| 3rd year：     | 34 55 89 144     | =322   |   
+| 4th year：  |  233 377 610 987    | =2207  |   
+| 5th year： | 1597 2584 4181 6765     | =15087 |
 
 
 As the number of people in the community is arranged like the golden ratio, the distribution of TIKI tokens will also be arranged in this way.
@@ -114,7 +114,7 @@ As the number of people in the community is arranged like the golden ratio, the 
 So we can get the following table. The income issued in each quarter can be derived from this table:
 
 | Q1              1/(1+1+2+3)                       |  0.4285714 billion    |     
-| ------------------------------------------------------------ | ---- | 
+| :-------------------------------------- | ---- | 
 | Q2                1/(1+1+2+3)                           |   0.4285714 billion   |   
 | Q3                2/(1+1+2+3)                          |   0.8571428 billion    |    
 | Q4                3/(1+1+2+3)                           |   1.285714 billion   |     

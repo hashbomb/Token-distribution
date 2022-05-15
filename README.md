@@ -102,7 +102,7 @@ Yes, we will divide 15% (15 billion) of the total TIKI according to such an imag
 If we imagine the first 20 numbers as 20 quarters, that's exactly five years.
 
 | 1st year：             |  1 1 2 3    | =7     | 
-| :----------------------------- | ---- | ----------- | 
+| :----------------------------- | :---- | :----------- | 
 | 2nd year：        |  5 8 13 21    | =47    | 
 | 3rd year：     | 34 55 89 144     | =322   |   
 | 4th year：  |  233 377 610 987    | =2207  |   
